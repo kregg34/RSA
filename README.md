@@ -1,3 +1,3 @@
-## RSA Chat Room
+## RSA Implementation
 
-Creating an RSA secured chat room. Messages that are sent will be encrypted with the RSA public key cryptosystem.
+An implementation of RSA public key cryptography in Java.
